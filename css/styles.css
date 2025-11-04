@@ -1,4 +1,3 @@
-
 /* #region Base */
 *,
 *::before,
@@ -42,7 +41,7 @@ a {
 }
 
 button {
- font-family: inherit;
+  font-family: inherit;
   cursor: pointer;
   padding: 0;
   border: none;
@@ -108,19 +107,6 @@ fieldset {
   clip: rect(0, 0, 0, 0);
   overflow: hidden;
 }
-/* #endregion */
-
-/* #region Logo */
-
-/* #endregion */
-
-/* #region Header */
-
-
-/* #endregion */
-
-/* #region Hero */
-
 /* #endregion */
 
 /* #region MW */
@@ -401,7 +387,6 @@ input[type="checkbox"]:checked + .label-checkbox > .accept-checkbox {
 /* #endregion */
 
 /* #region Mobile menu */
-
 .mobile-menu {
   position: fixed;
   top: 0;
